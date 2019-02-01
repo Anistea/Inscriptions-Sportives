@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>inscriptionsSportives Anouar-Anis</name>
@@ -10,3 +11,17 @@
       <nature>org.eclipse.jdt.core.javanature</nature>
 </natures>
 </projectDescription>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>inscriptionsSportives Anouar-Anis</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+      <nature>org.eclipse.jdt.core.javanature</nature>
+</natures>
+</projectDescription>
+>>>>>>> 665f43b8c1130e0d8cd37a90c3a430fd94d20f93
